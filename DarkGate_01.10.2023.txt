@@ -8,6 +8,14 @@
 
 *************************************************
 
+>> Tracker database block
+   Machine ID:  desktop-dzVhgpj
+   MAC Address: 08:00:27:2f:f3:76
+   MAC Vendor:  PCS SYSTEMTECHNIK
+   Creation:    2022-04-07 19:40:18
+
+*************************************************
+
 zip > lnk > vbs > au3 > exe
 
 cmd /c C:\Users\Admin\AppData\Local\Temp\MFGT.pdf.lnk
