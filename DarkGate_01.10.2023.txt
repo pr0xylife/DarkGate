@@ -4,6 +4,7 @@
 
 .url https://yellowstone.com.mm/rahu/
 .zip dc7e093daf79662126d4abeb759551a92a87ac73baa63e55e185c7eeaacd6347 pw = 678
+.zip 2fc402ad7b53ff4a9ca527ec8f188c28fb9f42dfe171b77439c46b1912cdf18a pw = 678
 .vbs 1d7053102899df457b96b56671ac70ab69817bc1e97b96d42634a772d0d65995
 
 *************************************************
