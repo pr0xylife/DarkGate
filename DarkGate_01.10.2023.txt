@@ -9,7 +9,19 @@
 *************************************************
 
 >> Tracker database block
+   Machine ID:  desktop-ZSbDJhDI
+   MAC Address: 83:6f:08:00:27:2f
+   MAC Vendor:  (Unknown vendor)
+   Creation:    3104-12-18 03:06:24
+
+>> Tracker database block
    Machine ID:  desktop-dzVhgpj
+   MAC Address: 08:00:27:2f:f3:76
+   MAC Vendor:  PCS SYSTEMTECHNIK
+   Creation:    2022-04-07 19:40:18
+
+>> Tracker database block
+   Machine ID:  desktop-uoKuXtg
    MAC Address: 08:00:27:2f:f3:76
    MAC Vendor:  PCS SYSTEMTECHNIK
    Creation:    2022-04-07 19:40:18
