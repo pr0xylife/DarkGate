@@ -47,14 +47,6 @@ svchost.exe -k netsvcs -s DsmSvc
 
 *************************************************
 
-distro urls
-
-http://84.246.85.138/xNn/ys
-http://162.19.130.45/Gdt5p3y/vWw
-http://84.246.85.121/nvT4ni/XX
-
-*************************************************
-
 c2
 
 Family darkgate
