@@ -49,7 +49,6 @@ svchost.exe -k netsvcs -s DsmSvc
 
 c2
 
-Family darkgate
 Botnet A1111
 C2 http://wilsoncallert.com
 alternative_c2_port 8080
