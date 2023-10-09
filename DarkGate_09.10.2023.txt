@@ -1,0 +1,65 @@
+10.09.2023 | Darkgate | A1111 | TA577
+
+*************************************************
+
+.url https://xavierliras.com/lgtv/?1
+.zip 724dd11f47420cabd044ef06b02eeba1898835d8a9fa99098fda82533e8485a9
+.msi 8600121c77bb725e24ffa58a657f3cbe752d9ed4299cc7e59127c9a7d6187eab
+
+*************************************************
+
+Code Signing Certificate
+Organisation:	MK ZN s.r.o.
+Issuer:	SSL.com EV Code Signing Intermediate CA RSA R3
+Algorithm:	sha256WithRSAEncryption
+Valid from:	2023-09-28T15:14:10Z
+Valid to:	2024-09-27T15:14:10Z
+Serial number:	 59f296d0af649e0962d724248d9fdcdb
+Blocklist:	This certificate is on the MalwareBazaar code signing certificate blocklist (CSCB)
+Thumbprint Algorithm:	SHA256
+Thumbprint:	 ce2aa31a714cc05f86d726a959f6655efc40777aa474fb6b9689154fdc918a44
+
+*************************************************
+
+url > zip > msi
+
+msiexec.exe /I C:\Users\Admin\AppData\Local\Temp\Agreement-10-06.msi
+
+msiexec.exe /V
+
+srtasks.exe ExecuteScopeRestorePoint /WaitForRestorePoint:2
+
+MsiExec.exe -Embedding 062EC97A45B9B5EF99BD04DA4120815F
+
+ICACLS.EXE C:\Users\Admin\AppData\Local\Temp\MW-e7664ada-f5d4-408f-8762-e78742d9244a\." /SETINTEGRITYLEVEL (CI)(OI)HIGH
+
+EXPAND.EXE" -R files.cab -F:* files
+
+KeyScramblerLogon.exe
+
+Autoit3.exe C:\Users\Admin\AppData\Local\Temp\MW-e7664ada-f5d4-408f-8762-e78742d9244a\files\script.au3
+
+ICACLS.EXE C:\Users\Admin\AppData\Local\Temp\MW-e7664ada-f5d4-408f-8762-e78742d9244a\." /SETINTEGRITYLEVEL (CI)(OI)LOW
+
+vssvc.exe
+
+svchost.exe -k netsvcs -s DsmSvc
+
+*************************************************
+
+distro urls
+
+http://84.246.85.138/xNn/ys
+http://162.19.130.45/Gdt5p3y/vWw
+http://84.246.85.121/nvT4ni/XX
+
+*************************************************
+
+c2
+
+Family darkgate
+Botnet A1111
+C2 http://wilsoncallert.com
+alternative_c2_port 8080
+c2_port 2351
+crypto_key nSoLLNAEzUGGah
