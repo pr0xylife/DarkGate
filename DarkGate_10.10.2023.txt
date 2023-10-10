@@ -2,7 +2,7 @@
 
 *************************************************
 
-.url https://xavierliras.com/lgtv/?1
+.url https://conventionalservices.com/pdno/
 .zip 88b5e4b1b533c398d790fbe974b2b369d72268069dcc64b53a742f4d1361c6bf
 ..msi 4325d78175a803fb6a1d235e8255816a07283501087e1b115f28c38b6b542856
 
