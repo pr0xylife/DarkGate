@@ -44,5 +44,8 @@ WerFault.exe -pss -s 408 -p 1040 -ip 1040
 
 c2
 
-http://prestige-castom.com:2351
+http://prestige-castom.com:2351/
 http://prestige-castom.com:2351/hnbidn
+http://prestige-castom.com:2351/dflqow
+
+*************************************************
