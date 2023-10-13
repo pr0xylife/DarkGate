@@ -4,6 +4,7 @@
 
 .url https://arquivaae.com.br/ine/?
 .url https://isoowac.com/gfie/?
+.url https://affaires.co.in/nm/?
 .zip bf2a69d4728af507440925f462a41bac0529dd70eec76ff8b5988bf510bea8ef
 .vbs 1e8a6d34c0fe5a5ad2fc1d6ff7000bcf8efa0704c397cb6ef021c2692bf17fe6
 
