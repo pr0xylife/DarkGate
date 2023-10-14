@@ -70,3 +70,5 @@ c2
 http://whoernet.co.com/
 http://whoernet.co.com/msifvwjscyk
 http://whoernet.co.com/sbhbrq
+http://212.113.118.178
+212.113.118.178:8080 (Ref: https://www.virustotal.com/gui/file/f12d21bdf3eea879223737eb604feef8c0b15be9b48ad2b1d9d3b43117b0bb3e/detection)
